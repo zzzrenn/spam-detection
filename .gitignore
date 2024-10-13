@@ -1,0 +1,8 @@
+
+__pycache__/
+
+# python packages
+.venv/
+
+# pretrained model weights
+weights/
