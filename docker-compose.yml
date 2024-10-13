@@ -1,0 +1,7 @@
+version: '1'
+
+services: 
+  spam-detection-service:
+    build: ./spam-detection-service
+    ports:
+      - 6000:6000
